@@ -62,4 +62,4 @@ Output: Menampilkan setiap mahasiswa dengan nilai tugas, UTS, UAS, dan nilai akh
 ![foto](https://raw.githubusercontent.com/rich-pro12/foto1/7defeb0bf519b61f1bb2289072dd0c31cdba4fdf/FLOWCHART%20PRATIKUM4.png)
 
 # Hasil Eskekusi
-![foto]()
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/53b3a15b41b7f71a799d9c5e02b05804e440b453/Screenshot%202024-11-19%20221908.png)
