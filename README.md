@@ -59,4 +59,7 @@ Proses: Menggunakan enumerate untuk mendapatkan indeks dan data mahasiswa, kemud
 Output: Menampilkan setiap mahasiswa dengan nilai tugas, UTS, UAS, dan nilai akhir, serta menambahkan batas tabel di akhir.
 
 # flowchart
-[foto!]("https://raw.githubusercontent.com/rich-pro12/foto1/7defeb0bf519b61f1bb2289072dd0c31cdba4fdf/FLOWCHART%20PRATIKUM4.png")
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/7defeb0bf519b61f1bb2289072dd0c31cdba4fdf/FLOWCHART%20PRATIKUM4.png)
+
+# Hasil Eskekusi
+![foto]()
